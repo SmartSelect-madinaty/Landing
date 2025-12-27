@@ -493,7 +493,7 @@ img{ max-width:100%; display:block; }
   gap: 10px;
 }
 
-/* ✅ Phone CTA in footer */
+/* ✅ Phone CTA in footer (ONE button only, no extra icon button) */
 .footer__call{
   display:inline-flex;
   align-items:center;
@@ -525,6 +525,9 @@ img{ max-width:100%; display:block; }
   width:20px;
   height:20px;
 }
+
+/* ✅ If an old phone icon button exists in footer icons, hide it */
+.footer__icons .iconbtn--phone{ display:none !important; }
 
 /* ================= MOBILE ================= */
 @media (max-width: 980px){
@@ -577,4 +580,9 @@ img{ max-width:100%; display:block; }
     flex: 1 1 auto;
     justify-content:center;
   }
+}
+
+/* ✅ NEW: Show "Call us" button in header on desktop/tablet, hide it on small mobile */
+@media (max-width: 560px){
+  .btn--callTop{ display:none !important; }
 }
