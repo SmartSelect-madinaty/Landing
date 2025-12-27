@@ -1,0 +1,143 @@
+{
+  "links": {
+    "whatsapp": "https://wa.me/201271028216",
+    "facebook": "https://www.facebook.com/share/1BchPsnvnd/?mibextid=wwXIfr",
+    "requestForm": "https://forms.gle/GsTXZGXXrcypanPd7",
+    "reportPdf": "https://drive.google.com/uc?export=download&id=1nIEKPkZXwoC-ElaqLdqDjIngU0xTQ4na"
+  },
+
+  "images": {
+    "heroBg": "assets/hero.jpg",
+    "problem": "assets/problem.jpg",
+    "why": "assets/why.jpg"
+  },
+
+  "models": {
+    "items": [
+      { "img": "assets/models/01.jpg", "caption": "" },
+      { "img": "assets/models/02.jpg", "caption": "" },
+      { "img": "assets/models/03.jpg", "caption": "" },
+      { "img": "assets/models/04.jpg", "caption": "" },
+      { "img": "assets/models/05.jpg", "caption": "" },
+      { "img": "assets/models/06.jpg", "caption": "" },
+      { "img": "assets/models/07.jpg", "caption": "" },
+      { "img": "assets/models/08.jpg", "caption": "" },
+      { "img": "assets/models/09.jpg", "caption": "" },
+      { "img": "assets/models/10.jpg", "caption": "" }
+    ]
+  },
+
+  "i18n": {
+    "ar": {
+      "nav_problem": "لماذا قرار شراء العقار صعب؟",
+      "nav_why": "لماذا Smart Select؟",
+      "nav_models": "استكشف نماذج العمارات",
+      "nav_faq": "الأسئلة الشائعة",
+      "nav_contact": "تواصل معنا",
+
+      "cta_request": "اطلب تقرير وحدتك",
+      "cta_sample": "تحميل نموذج تقرير (PDF)",
+
+      "hero_title": "مش بنبيع… بنساعدك تختار صح",
+      "hero_subtitle": "تقرير تقييم عقاري يضمن تشترى على نور وتختار الأفضل بثقة",
+
+      "problem_title": "لماذا قرار شراء العقار صعب؟",
+      "why_title": "لماذا Smart Select؟",
+      "models_title": "استكشف نماذج العمارات بمدينتي",
+      "faq_title": "الأسئلة الشائعة",
+      "faq_subtitle": "",
+      "footer_note": "تحليل عقاري احترافي – مدينتي"
+    },
+
+    "en": {
+      "nav_problem": "Why is buying a property hard?",
+      "nav_why": "Why Smart Select?",
+      "nav_models": "Explore Building Models",
+      "nav_faq": "FAQ",
+      "nav_contact": "Contact",
+
+      "cta_request": "Request a Property Report",
+      "cta_sample": "Sample Report (Download PDF)",
+
+      "hero_title": "We don't sell… we help you choose right",
+      "hero_subtitle": "A data-driven property evaluation report for a confident decision",
+
+      "problem_title": "Why is buying a property hard?",
+      "why_title": "Why Smart Select?",
+      "models_title": "Explore Madinaty Building Models",
+      "faq_title": "Frequently Asked Questions",
+      "faq_subtitle": "",
+      "footer_note": "Professional property analysis – Madinaty"
+    }
+  },
+
+  "content": {
+    "ar": {
+      "problemIntro": "بنقدّم تقرير عقاري محايد مبني على بيانات فعلية وتحليل واضح، يساعدك تشوف الصورة كاملة قبل ما تاخد قرار الشراء.",
+
+      "problemBullets": [
+        "الإعلانات بتوضح المميزات، لكن غالبًا ما بتغفل العيوب المهمة.",
+        "مفيش جهة محايدة فعلًا تساعد المشتري ياخد قرار صح.",
+        "مقارنة الشقق صعبة بسبب نقص المعلومات وعدم وضوح الأرقام."
+      ],
+
+      "whyBullets": [
+        "بنقدّم تقارير تقييم عقاري محايدة مبنية على بيانات فعلية وتحليل واضح، تساعدك تشوف الصورة كاملة قبل ما تاخد قرار الشراء.",
+        " مش بنبيع عقار إحنا طرف محايد… بنقيّم وننصح كخبير مستقل واقف في صفك."
+      ],
+
+      "faq": [
+        {
+          "q": "كيف أطلب تقرير تقييم عقاري؟",
+          "a": "اضغط على زر (اطلب تقرير وحدتك) وسيتم تحويلك لنموذج Google Form لإدخال التفاصيل."
+        },
+        {
+          "q": "هل يوجد نموذج للتقرير؟",
+          "a": "نعم، يمكنك تنزيل نموذج التقرير PDF مباشرة من زر (تحميل نموذج تقرير PDF)."
+        },
+        {
+          "q": "ما هي مدة تسليم التقرير؟",
+          "a": "يتم تسليم التقرير خلال 24 ساعة من استلام البيانات كاملة."
+        },
+        {
+          "q": "هل التقرير مخصص لمدينتي فقط؟",
+          "a": "حاليًا التركيز الأساسي على مدينتي (خصوصًا B14) لضمان أعلى دقيقة في البيانات."
+        }
+      ]
+    },
+
+    "en": {
+      "problemIntro": "We provide a neutral property report based on actual data and clear analysis, helping you see the full picture before making a purchase decision.",
+
+      "problemBullets": [
+        "Listings often highlight advantages while hiding key drawbacks.",
+        "There is no truly neutral party advising buyers objectively.",
+        "Comparing properties is difficult due to missing data and unclear numbers."
+      ],
+
+      "whyBullets": [
+        "We provide neutral property evaluation reports based on real data and clear analysis, helping you see the full picture before you decide to buy.",
+        "We don’t sell property—we’re a neutral party that evaluates and advises as an independent expert on your side."
+      ],
+
+      "faq": [
+        {
+          "q": "How do I request a property evaluation report?",
+          "a": "Click on (Request a Property Report) and you will be directed to a Google Form to enter details."
+        },
+        {
+          "q": "Is there a sample report?",
+          "a": "Yes, you can download a sample PDF report directly from the (Download Sample Report PDF) button."
+        },
+        {
+          "q": "What is the delivery time for the report?",
+          "a": "The report is delivered within 24 hours of receiving complete data."
+        },
+        {
+          "q": "Is the report specific to Madinaty only?",
+          "a": "Currently, the primary focus is on Madinaty (especially B14) to ensure the highest data accuracy."
+        }
+      ]
+    }
+  }
+}
