@@ -90,12 +90,18 @@ img{ max-width:100%; display:block; }
 }
 .header__title{
   font-weight:800;
-  letter-spacing: 2px;
-  text-transform: uppercase;
+
+  /* ✅ IMPORTANT: keep original casing (Nest Match) */
+  text-transform: none;
+
+  /* ✅ letter spacing أخف لأن الكابيتال كان محتاجها أكتر */
+  letter-spacing: .6px;
+
   color: var(--off);
   font-size: clamp(16px, 2vw, 22px);
   opacity:.96;
 }
+
 
 /* Actions */
 .header__actions{
