@@ -5,139 +5,135 @@
     "requestForm": "https://forms.gle/GsTXZGXXrcypanPd7",
     "reportPdf": "https://drive.google.com/uc?export=download&id=1nIEKPkZXwoC-ElaqLdqDjIngU0xTQ4na"
   },
-
   "images": {
     "heroBg": "assets/hero.jpg",
     "problem": "assets/problem.jpg",
     "why": "assets/why.jpg"
   },
-
   "models": {
     "items": [
-      { "img": "assets/models/01.jpg", "caption": "" },
-      { "img": "assets/models/02.jpg", "caption": "" },
-      { "img": "assets/models/03.jpg", "caption": "" },
-      { "img": "assets/models/04.jpg", "caption": "" },
-      { "img": "assets/models/05.jpg", "caption": "" },
-      { "img": "assets/models/06.jpg", "caption": "" },
-      { "img": "assets/models/07.jpg", "caption": "" },
-      { "img": "assets/models/08.jpg", "caption": "" },
-      { "img": "assets/models/09.jpg", "caption": "" },
-      { "img": "assets/models/10.jpg", "caption": "" }
+      { "img": "assets/models/01.jpg", "caption": "نماذج عمارات مدينتي — واجهات ومساحات" },
+      { "img": "assets/models/02.jpg", "caption": "تخطيطات داخلية — كفاءة توزيع المساحة" },
+      { "img": "assets/models/03.jpg", "caption": "اتجاهات وواجهات — تأثير الشمس والتهوية" },
+      { "img": "assets/models/04.jpg", "caption": "إطلالات (View) — جاردن / بارك / شارع رئيسي" },
+      { "img": "assets/models/05.jpg", "caption": "خصوصية الوحدة — مجروحة / غير مجروحة" },
+      { "img": "assets/models/06.jpg", "caption": "مقارنة نماذج — نقاط قوة وضعف كل نموذج" },
+      { "img": "assets/models/07.jpg", "caption": "الموقع داخل المجموعة — قرب الخدمات" },
+      { "img": "assets/models/08.jpg", "caption": "أدوار مختلفة — فروق السعر والقيمة" },
+      { "img": "assets/models/09.jpg", "caption": "تحليل معماري — مساحة فعلية وكفاءة" },
+      { "img": "assets/models/10.jpg", "caption": "تقرير تقييم عقاري — مثال عرض البيانات" }
     ]
   },
-
   "i18n": {
     "ar": {
-      "nav_problem": "ليه فيه صعوبة فى الوصول للعقار المناسب بمدينتى ؟",
-      "nav_why": "كيف نقدم لك الحل ؟",
+      "nav_problem": "لماذا قرار الشراء في مدينتي صعب؟",
+      "nav_why": "كيف تساعدك Nest Match؟",
       "nav_models": "استكشف نماذج العمارات",
       "nav_faq": "الأسئلة الشائعة",
       "nav_contact": "تواصل معنا",
-
-      "cta_request": "اطلب تقرير وحدتك",
+      "cta_request": "اطلب تقرير تقييم عقاري",
       "cta_sample": "تحميل نموذج تقرير (PDF)",
-
-      "hero_title": "مش بنبيع… بنساعدك تختار صح",
-      "hero_subtitle": "تقرير تقييم عقارى يضمنلك تشترى على نور وتختار الأفضل بثقة",
-
-      "problem_title": "ليه فيه صعوبة فى الوصول للعقار المناسب بمدينتى ؟",
-      "why_title": "  كيف نقدم لك الحل ؟ ",
-      "models_title": "استكشف نماذج العمارات بمدينتي",
+      "hero_title": "نحن لا نبيع ولا نأخذ عمولة",
+      "hero_subtitle": "تقرير تقييم عقاري (تحليل مالي ومعماري) يساعدك على اختيار الأفضل بثقة في مدينتي",
+      "problem_title": "لماذا يصعب الوصول إلى العقار الأنسب في مدينتي؟",
+      "why_title": "كيف تقدّم Nest Match الحل؟",
+      "models_title": "استكشف نماذج عمارات مدينتي",
       "faq_title": "الأسئلة الشائعة",
       "faq_subtitle": "",
-      "footer_note": "تحليل عقارى احترافي – مدينتى"
+      "footer_note": "شركة تقييم عقاري مستقلة — تحليل مالي ومعماري في مدينتي"
     },
-
     "en": {
-      "nav_problem": "Why is buying a property hard?",
-      "nav_why": "Why Nest Match?",
+      "nav_problem": "Why buying in Madinaty is hard",
+      "nav_why": "How Nest Match helps",
       "nav_models": "Explore Building Models",
       "nav_faq": "FAQ",
       "nav_contact": "Contact",
-
-      "cta_request": "Request a Property Report",
-      "cta_sample": "Sample Report (Download PDF)",
-
-      "hero_title": "We don't sell… we help you choose right",
-      "hero_subtitle": "A data-driven property evaluation report for a confident decision",
-
-      "problem_title": "Why is buying a property hard?",
-      "why_title": "Why Nest Match?",
+      "cta_request": "Request an Evaluation Report",
+      "cta_sample": "Download Sample Report (PDF)",
+      "hero_title": "We don’t sell & we don’t take commissions",
+      "hero_subtitle": "Independent property evaluation (financial & architectural) to help you choose the best with confidence in Madinaty",
+      "problem_title": "Why is choosing the right property in Madinaty difficult?",
+      "why_title": "How does Nest Match help?",
       "models_title": "Explore Madinaty Building Models",
       "faq_title": "Frequently Asked Questions",
       "faq_subtitle": "",
-      "footer_note": "Professional property analysis – Madinaty"
+      "footer_note": "Independent property evaluation — Madinaty"
     }
   },
-
   "content": {
     "ar": {
       "problemBullets": [
-        "عدم وجود شركات إستشارات حقيقة ليست مصلحتها البيع للمشترى.",
-        "أعلانات بيانتها غير دقيقة تبرز المميزات ولا تذكر العيوب. ",
-        "تضارب البيانات المالية الأمر الذى يترتب عليه مفاجآت أثناء التعاقد ",
-        "صعوبة المقارنة بين الشقق بسبب نقص المعلومات وعدم وضوح الأرقام."
+        "الإعلانات غالبًا تبرز المميزات وتُهمل عيوبًا مؤثرة مثل ضعف التهوية أو الإطلالة أو الخصوصية.",
+        "لا توجد جهة محايدة بشكل كافٍ؛ كثير من النصائح مرتبطة بالبيع أو العمولة وليس بمصلحة المشتري.",
+        "التفاصيل المالية قد تكون غير مكتملة أو متضاربة (مطلوب/مدفوع/متبقي/ودائع/مصروفات)، ما يسبب مفاجآت وقت التعاقد.",
+        "المقارنة بين الشقق صعبة بسبب نقص البيانات الأساسية: الاتجاه، الفيو الحقيقي، المساحة الفعلية، والتأثيرات المعمارية."
       ],
-      
       "whyBullets": [
-        "شركة تقيم عقارى لا نقوم بترشيح وحدات على العملاء ولا نتقاضى عمولات على البيع ، مصلحتك هي الأولوية.",
-        " تقرير تفصيلى يشمل كل بيانات الوحدة: الفيو، الاتجاه، مدى التعرض للشمس والمساحة الفعلية وجميع التفاصيل المهمة.",
-        "  تحليل مالى يعكس قيمة الوحدة والالتزامات المستقبلية قبل التعاقد من خلاله يمكنك المقارنة المالية بسهولة.",
-        "نظام مقارنة مدعوم بالذكاء الاصطناعى يقيم حسب تفضيلاتك، يساعدك تختار الأفضل بثقة."
+        "Nest Match شركة تقييم عقاري مستقلة وليست شركة وساطة: لا نُرشّح وحدات للبيع ولا نتقاضى عمولات، لذلك مصلحتك هي الأولوية.",
+        "تقرير تقييم عقاري شامل يعرض الصورة الكاملة قبل التعاقد: الاتجاهات، الإطلالة، الخصوصية، التعرض للشمس، والمساحة الفعلية وأي نقاط قد تؤثر على القرار.",
+        "تحليل مالي واضح يساعدك على فهم الالتزامات الفعلية ومقارنة البدائل بسهولة قبل توقيع أي عقد.",
+        "نظام تقييم ومقارنة مدعوم بقاعدة بيانات وذكاء اصطناعي لزيادة الدقة وكشف الفروق الحقيقية بين الوحدات."
       ],
-
       "faq": [
         {
           "q": "كيف أطلب تقرير تقييم عقاري؟",
-          "a": "اضغط على زر (اطلب تقرير وحدتك) وسيتم تحويلك لنموذج Google Form لإدخال التفاصيل."
+          "a": "اضغط على زر (اطلب تقرير تقييم عقاري) وسيتم تحويلك إلى نموذج Google Form لإدخال بيانات الوحدة."
         },
         {
           "q": "هل يوجد نموذج للتقرير؟",
-          "a": "نعم، يمكنك تنزيل نموذج التقرير PDF مباشرة من زر (تحميل نموذج تقرير PDF)."
+          "a": "نعم، يمكنك تنزيل نموذج تقرير PDF من زر (تحميل نموذج تقرير PDF)."
         },
         {
-          "q": "ما هي مدة تسليم التقرير؟",
+          "q": "ما مدة تسليم التقرير؟",
           "a": "يتم تسليم التقرير خلال 24 ساعة من استلام البيانات كاملة."
         },
         {
-          "q": "هل التقرير مخصص لمدينتي فقط؟",
-          "a": "حاليًا التركيز الأساسي على مدينتي (خصوصًا B14) لضمان أعلى دقة في البيانات."
+          "q": "هل الخدمة مخصصة لمدينتي فقط؟",
+          "a": "حاليًا نعم. التركيز على مدينتي (وخاصة B14) لضمان أعلى دقة في قاعدة البيانات والتحليل."
+        },
+        {
+          "q": "هل أنتم شركة وساطة أو تقومون بترشيح شقق للبيع؟",
+          "a": "لا. نحن شركة تقييم عقاري مستقلة. لا نبيع ولا نرشّح وحدات ولا نتقاضى عمولات بيع."
         }
       ]
     },
-
     "en": {
       "problemBullets": [
-        "Listings often highlight advantages while hiding key drawbacks.",
-        "There is no truly neutral party advising buyers objectively.",
-        "Comparing properties is difficult due to missing data and unclear numbers."
+        "Listings often highlight the upside and overlook critical drawbacks (sun exposure, privacy, view, noise, layout efficiency).",
+        "Buyers rarely find a truly neutral advisor—many recommendations are influenced by selling or commissions.",
+        "Financial details can be unclear or inconsistent, which leads to surprises at signing (fees, deposits, remaining balance, payment terms).",
+        "Comparing apartments is hard because key data is missing: real orientation, true view, effective area, and architectural impact."
       ],
-
       "whyBullets": [
-        "We provide neutral property evaluation reports based on real data and clear analysis, helping you see the full picture before you decide to buy.",
-        "We don’t sell property—we’re a neutral party that evaluates and advises as an independent expert on your side."
+        "Nest Match is an independent property evaluation company—not a brokerage. We don’t sell units and we don’t take sales commissions.",
+        "We provide a clear property evaluation report before you sign: orientation, view, privacy, sun exposure, effective area, and key decision factors.",
+        "A financial analysis that makes obligations and trade-offs clear—so you can compare options confidently.",
+        "A data-driven evaluation system backed by a managed database and AI to increase accuracy and reveal real differences."
       ],
-
       "faq": [
         {
           "q": "How do I request a property evaluation report?",
-          "a": "Click on (Request a Property Report) and you will be directed to a Google Form to enter details."
+          "a": "Click (Request an Evaluation Report). You’ll be redirected to a Google Form to submit the unit details."
         },
         {
           "q": "Is there a sample report?",
-          "a": "Yes, you can download a sample PDF report directly from the (Download Sample Report PDF) button."
+          "a": "Yes. Use the (Download Sample Report PDF) button to download a sample."
         },
         {
-          "q": "What is the delivery time for the report?",
-          "a": "The report is delivered within 24 hours of receiving complete data."
+          "q": "What is the report delivery time?",
+          "a": "Within 24 hours after receiving complete information."
         },
         {
-          "q": "Is the report specific to Madinaty only?",
-          "a": "Currently, the primary focus is on Madinaty (especially B14) to ensure the highest data accuracy."
+          "q": "Is the service only for Madinaty?",
+          "a": "Currently yes—Madinaty (especially B14) to ensure maximum accuracy."
+        },
+        {
+          "q": "Do you sell units or take commissions?",
+          "a": "No. Nest Match is independent and does not sell properties or take sales commissions."
         }
       ]
     }
   }
 }
+
 
