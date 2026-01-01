@@ -283,6 +283,22 @@
       if (el) el.setAttribute("href", fb);
     });
 
+    // ✅ Email (natural place with contact links)
+    const email = normalizeUrl(cfg?.links?.email) || "";
+    ["#emailTop", "#emailFooter"].forEach(id => {
+      const el = $(id);
+      if (!el) return;
+
+      if (!email) {
+        el.style.display = "none";
+        return;
+      }
+
+      el.style.display = "";
+      el.setAttribute("href", `mailto:${email}`);
+      el.textContent = email;
+    });
+
     const form = normalizeUrl(cfg?.links?.requestForm) || "https://forms.gle/GsTXZGXXrcypanPd7";
     ["#ctaHero", "#ctaProblem", "#ctaFooter"].forEach(id => {
       const el = $(id);
@@ -428,4 +444,3 @@
       if (hero) hero.textContent = "حدث خطأ في تحميل الإعدادات (site.json). تأكد من وجود الملف في config/site.json.";
     });
 })();
-
